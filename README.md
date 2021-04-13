@@ -6,6 +6,10 @@ This is an aplication that use firebase, node, and boostrap
 
 npm install
 
+## Start
+
+npm run dev
+
 ## Resources
 
 - https://firebase.google.com/docs/admin/setup
